@@ -12,9 +12,9 @@ The purpose of this program is to demonstrate a basic structure of a C program, 
 
 Source Code
 -----------
-The source code is in the file "hello.c".
+The source code is in the file "hello.c"
 
-Code is a s follows:
+Code is as follows:
 
     #include <stdio.h>
 
