@@ -17,7 +17,6 @@ The source code is in the file "hello.c"
 Code is as follows:
 
     #include <stdio.h>
-
     int main() {
         printf("Hello, World\\n");
         return 0;
